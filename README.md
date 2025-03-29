@@ -1,4 +1,4 @@
-# Chunky
+# Chunky - 1.21.5 Sync
 
 ![chunkylogo](https://user-images.githubusercontent.com/17698576/171119146-122497e4-7527-438b-8f8e-c1c04c2841b9.jpg)
 
